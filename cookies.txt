@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.friv2game.org	TRUE	/	FALSE	1999999999	PHPSESSID	a3c144c924d1df0ca79589abed1f1406
+www.friv2game.org	TRUE	/	FALSE	1999999999	gamecookie	kyrpto-the-superdog-heroes-unleashed
+www.friv2game.org	TRUE	/	FALSE	1999999999	numplays	240
+
